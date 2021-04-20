@@ -1,0 +1,6 @@
+1. Corrigir o json da massa de dados - OK
+2. Validar Json (jsonlint) - OK
+3. Ler o json do arquivo dados.json - OK
+https://docs.python.org/3/library/pprint.html
+4. Ordenar os dados em uma sequencia N - OK
+https://docs.python.org/pt-br/3/howto/sorting.html#operator-module-functions
