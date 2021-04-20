@@ -4,3 +4,7 @@
 https://docs.python.org/3/library/pprint.html
 4. Ordenar os dados em uma sequencia N - OK
 https://docs.python.org/pt-br/3/howto/sorting.html#operator-module-functions
+5. Listar array com jobs que executem em no maximo 8h - OK
+6. Listar array respeitando a data maxima de conclusão do jobs - OK
+https://docs.python.org/3/library/datetime.html#datetime.date.strftime
+7. Listar array com os jobs que estão na janela de inicio e fim - OK
