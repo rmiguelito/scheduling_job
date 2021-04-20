@@ -49,7 +49,6 @@ def array_jobs(arquivo, janela_inicio, janela_fim, horas_bloco_intervalo=8):
 
 import doctest
 import sys
-
 doctest.testmod()
 #print(len(sys.argv))
 #if len(sys.argv) != 4:
