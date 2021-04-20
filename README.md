@@ -60,7 +60,7 @@ python jobs.py -v
 ```shell
 python app.py
 ```
-O serviço estará disponivel na url http://localhost:8080/jobs
+O serviço estará disponivel na url http://localhost:8080/jobs  <br/>
 Conteudo do POST:  
 ```json
 {
